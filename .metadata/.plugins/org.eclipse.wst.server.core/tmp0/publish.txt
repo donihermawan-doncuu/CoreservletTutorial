@@ -1,0 +1,4 @@
+#GlassFish 3
+#Wed Apr 15 23:04:25 ICT 2020
+org.eclipse.jst.jee.server\:el=C\:\\Users\\yoga_\\Desktop\\Desktop\\payara5\\glassfish\\domains\\domain1\\eclipseApps\\el
+org.eclipse.jst.jee.server\:validation-1=C\:\\Users\\yoga_\\Desktop\\Desktop\\payara5\\glassfish\\domains\\domain1\\eclipseApps\\validation-1
